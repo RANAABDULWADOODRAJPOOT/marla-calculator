@@ -1,10 +1,10 @@
 import React from 'react'
-import Rectangle from '@/components/shared/Rectangle'
+import Calculator from '@/components/views/Calculator/calculatorMarla'
 
 function page() {
   return (
     <>
-    <Rectangle/>
+    <Calculator/>
     </>
   )
 }
