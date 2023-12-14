@@ -24,7 +24,7 @@ function CalculatorMarla() {
 
   const [area, setArea] = useState(0);
 
-  const { heading, card } = styles.classes;
+  const { heading } = styles.classes;
   const { sliderStyle, sliderOuterStyle, cardStyle, cardStyleSelected, iconFont, buttonPrimary } = styles.styles;
 
   useEffect(() => {

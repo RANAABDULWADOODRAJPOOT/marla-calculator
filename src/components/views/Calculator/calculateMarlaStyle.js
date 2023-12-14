@@ -1,7 +1,6 @@
 const styles = {
     classes: {
-        heading: "text-lg text-center p-4 font-bold",
-        card: ""
+        heading: "text-lg text-center p-4 font-bold"
     },
     styles: {
         sliderOuterStyle: {
