@@ -2,6 +2,10 @@
 Calculate Marla
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project Overview
+Explore the convenience of land measurement with the Next.js Plot Size Calculator. This application is designed to effortlessly determine the plot size in marla, accommodating both triangular and rectangular plots. Users can input measurements in feet or meters for the sides of the plot, whether it be a triangle or a rectangle. 
+
+
 ## Getting Started
 
 First, run the development server:
